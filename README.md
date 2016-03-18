@@ -1,2 +1,2 @@
 # Landing Page for IgniteCS
-[cppignite.com](cppignite.com)
+[cppignite.com](http://www.cppignite.com)
