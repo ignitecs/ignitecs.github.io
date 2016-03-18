@@ -3092,14 +3092,14 @@
         }
 
         .spotlights > section:nth-child(5) {
-            background-color: rgba(150, 000, 0, 0.50);
+            background-color: rgba(90, 147, 212, 0.50);
         }
 
         .spotlights > section:nth-child(6) {
-            background-color: rgba(150, 000, 0, 0.55);
+            background-color: rgba(90, 147, 212, 0.65);
         }
 		.spotlights > section:nth-child(7) {
-            background-color: rgba(150, 0, 0, 0.60);
+            background-color: rgba(90, 147, 212, 0.75);
         }
 
 		.spotlights > section.inactive > .image:before, body.is-loading .spotlights > section > .image:before {
