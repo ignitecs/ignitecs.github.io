@@ -1684,6 +1684,10 @@
 			border-bottom-color: transparent;
 			color: #ffffff;
 		}
+	// I know this isn't where this goes...but...where does it go?
+	#footer a{
+		border: 0px;
+	}
 
 	strong, b {
 		color: #ffffff;
