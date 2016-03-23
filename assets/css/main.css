@@ -3542,6 +3542,15 @@
 		color: rgba(255, 255, 255, 0.15);
 	}
 
+    #footer > .inner {
+        text-align:center;
+    }
+
+
+    #footer > img {
+        margin:auto; display:inline-block
+    }
+
 	#header + #wrapper + #footer > .inner {
 		margin: 0 auto;
 	}
