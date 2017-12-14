@@ -1,0 +1,10 @@
+Classes Taught
+Los Robles Elementary School: Sphero Robots (Class of 25) Fall 2017
+Los Altos High School: MIT App Inventor (Class of 10) Fall 2017
+Orange Grove Middle School: MIT App Inventor (Class of 10) Fall 2017
+Wickman Elementary School: Sphero Robots (Class of 20) Fall 2017
+Rialto Middle School: MIT App Inventor (Class of 35) Spring 2017
+Orange Grove Middle School: MIT App Inventor (Class of 20) Spring 2017
+Los Altos High School: Python (Class of 15) Winter 2017
+Los Altos High School: MIT App Inventor (Class of 25) Fall 2016
+Diamond Ranch High School: MIT App Inventor (Class of 40) Spring 2016
